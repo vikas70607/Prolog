@@ -31,3 +31,4 @@ Height>=Jump+Table+Stick,
 write("unsuccessful").
 task(1):-
 write("successful").
+%go.
