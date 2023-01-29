@@ -19,3 +19,4 @@ connected(A,C),
 C\== B,
 \+member(C, Visited),
 traverse(C,B,[C|Visited],Path).
+% path(1,4,P).
